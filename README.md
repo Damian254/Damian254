@@ -10,8 +10,18 @@
 
 - <b>Python</b>
   - [Package Delivery Application (Data Structures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+ 
 
 <h2>👨‍💻 IT SUPPPORT PROJECTS:</h2>
+
+<h2> CERTIFICATIONS:</h2>
+
+- [Google IT support](https://www.coursera.org/account/accomplishments/specialization/certificate/2LG5PG45JRUV)
+- [google Cybersecurity certificate](https://www.coursera.org/account/accomplishments/certificate/E4Y5CRJ5XDX5)
+- [Cisco(introduction to cybersecurity)](https://www.credly.com/badges/9c0540bb-346d-4cd9-90f4-297960a735a6?source=linked_in_profile)
+- [Cisco(introduction to Networking)]((https://www.credly.com/badges/5f05940b-951d-48d3-89e8-d7fd94aa1355?source=linked_in_profile))
+- [python core || introduction to python](https://www.sololearn.com/certificates/course/en/9397401/1073/landscape/png)
+
 
 
 <h2> 🤳 Connect with me:</h2>
