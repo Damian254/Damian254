@@ -16,6 +16,7 @@
 
 <h2> CERTIFICATIONS:</h2>
 
+- [Soc Analyst Level 1](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-QB3VD1JXYB.png)
 - [Google IT support](https://www.coursera.org/account/accomplishments/specialization/certificate/2LG5PG45JRUV)
 - [google Cybersecurity certificate](https://www.coursera.org/account/accomplishments/certificate/E4Y5CRJ5XDX5)
 - [Cisco(introduction to cybersecurity)](https://www.credly.com/badges/9c0540bb-346d-4cd9-90f4-297960a735a6?source=linked_in_profile)
@@ -31,9 +32,9 @@
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-[twitter]: https://twitter.com/mutisya_damian
+[twitter]: https://x.com/DamianMutisya
 [youtube]: https://www.youtube.com/@254FIXER
-[linkedin]: www.linkedin.com/in/damian-mutisya-94291b17
+[linkedin]: www.linkedin.com/in/damianmutisya
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
